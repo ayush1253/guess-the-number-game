@@ -1,2 +1,2 @@
 # guess-the-number-game
-guess the number
+THIS IS MY FIRST MINOR PROJECT, MADE WITH C LANGUAGE
